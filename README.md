@@ -3,6 +3,11 @@
 This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
+## Changelog
+## v1.0.1
+
+* Revised thrust curve to work with current versions of Kerbal Engineer Redux.
+
 ## Description
 
 BetterSRBs modifies solid rocket boosters in Kerbal Space Program.  Although some new parts are added, this is really not a parts mod.  The purpose is to fix deficiencies in existing SRBs so that their performance and physical properties are internally consistent and closer to real life.
@@ -15,7 +20,7 @@ BetterSRBs also implements the use of thrust curves.  No longer do SRBs burn at 
 
 ## Installation Instructions
 
-1. Download BetterSRBs v1.0.0.
+1. Download BetterSRBs v1.0.1.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
 
