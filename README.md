@@ -4,9 +4,9 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.1
+## v1.0.2
 
-* Revised thrust curve to work with current versions of Kerbal Engineer Redux.
+* Revised RealPlume.cfg to fix conflict with JetSounds.
 
 ## Description
 
@@ -20,7 +20,7 @@ BetterSRBs also implements the use of thrust curves.  No longer do SRBs burn at 
 
 ## Installation Instructions
 
-1. Download BetterSRBs v1.0.1.
+1. Download BetterSRBs v1.0.2.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
 
