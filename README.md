@@ -4,9 +4,9 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.2
+## v1.0.3
 
-* Revised RealPlume.cfg to fix conflict with JetSounds.
+* Changed RT-5 and RT-10 internal names to match KSP version 1.5.
 
 ## Description
 
@@ -20,7 +20,7 @@ BetterSRBs also implements the use of thrust curves.  No longer do SRBs burn at 
 
 ## Installation Instructions
 
-1. Download BetterSRBs v1.0.2.
+1. Download BetterSRBs v1.0.3.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
 
