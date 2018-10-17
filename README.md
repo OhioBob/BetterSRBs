@@ -4,9 +4,10 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.3
+## v1.0.4
 
-* Changed RT-5 and RT-10 internal names to match KSP version 1.5.
+* Added NovaPunch Rebalanced to supported part packs.
+* Fixed typo in part configs.
 
 ## Description
 
@@ -20,7 +21,7 @@ BetterSRBs also implements the use of thrust curves.  No longer do SRBs burn at 
 
 ## Installation Instructions
 
-1. Download BetterSRBs v1.0.3.
+1. Download BetterSRBs v1.0.4.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
 
@@ -32,7 +33,8 @@ BetterSRBs adds parts to fill the need for larger SRBs in the stock game.  The p
 
 In addition to modifying the stock parts, configs are also included to modify the SRBs of the following part packs:
 
-  * KW Rocketry Rebalanced
   * SpaceY Heavy Lifters
+  * KW Rocketry Rebalanced
+  * NovaPunch Rebalanced
 
 Also included is RealPlume support for the added SRBs.
