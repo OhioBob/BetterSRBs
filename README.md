@@ -6,7 +6,7 @@ CC BY-NC-ND
 ## Changelog
 ## v1.0.4
 
-* Added NovaPunch Rebalanced to supported part packs.
+* Added NovaPunch Rebalanced to supported mods.
 * Fixed typo in part configs.
 
 ## Description
