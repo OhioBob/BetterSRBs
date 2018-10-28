@@ -1,0 +1,21 @@
+{
+  "NAME": "BetterSRBs",
+  "URL": "https://raw.githubusercontent.com/OhioBob/BetterSRBs/master/GameData/BetterSRBs/BetterSRBs.version",  
+  "DOWNLOAD": "https://github.com/OhioBob/BetterSRBs",
+  "CHANGE_LOG_URL": "https://github.com/OhioBob/BetterSRBs/blob/master/README.md",
+  "GITHUB": {
+    "USERNAME": "OhioBob",
+    "REPOSITORY": "BetterSRBs"
+  },
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 0,
+    "PATCH": 4,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 5,
+    "PATCH": 0
+  }
+}
