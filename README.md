@@ -4,10 +4,9 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.4
+## v1.0.5
 
-* Added NovaPunch Rebalanced to supported mods.
-* Fixed typo in part configs.
+* Added RLA Reborn to supported mods.
 
 ## Description
 
@@ -21,7 +20,7 @@ BetterSRBs also implements the use of thrust curves.  No longer do SRBs burn at 
 
 ## Installation Instructions
 
-1. Download BetterSRBs v1.0.4.
+1. Download BetterSRBs v1.0.5.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
 
