@@ -4,9 +4,9 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.7
+## v1.0.8
 
-* Expanded ReStockPlus support
+* Brought back parts that got hidden in KSP 1.6.
 
 ## Description
 
@@ -20,7 +20,7 @@ BetterSRBs also implements the use of thrust curves.  No longer do SRBs burn at 
 
 ## Installation Instructions
 
-1. Download BetterSRBs v1.0.7.
+1. Download BetterSRBs v1.0.8.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
 
