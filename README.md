@@ -4,9 +4,9 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.8
+## v1.0.9
 
-* Brought back parts that got hidden in KSP 1.6.
+* Changes made to help compatibility with other mods.
 
 ## Description
 
@@ -27,6 +27,10 @@ BetterSRBs also implements the use of thrust curves.  No longer do SRBs burn at 
 ## New Parts
 
 BetterSRBs adds parts to fill the need for larger SRBs in the stock game.  The parts added are just rescaled duplicates of existing parts, though with new textures to give them a distinctive appearance.  There are now 1.875-meter versions of the Thumper and Kickback solid fuel boosters.  Also added is a 1.875m nose cone and a 1.875 x 1.25m adapter.
+
+## Recommended Mods
+
+[SmallParts](https://spacedock.info/mod/614/SmartParts/download/) - SRB Monitor auto-stages SRBs when the thrust-to-weight ratio falls below a specified value.
 
 ## Supported Mods
 
