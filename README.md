@@ -30,7 +30,7 @@ BetterSRBs adds parts to fill the need for larger SRBs in the stock game.  The p
 
 ## Recommended Mods
 
-[SmallParts](https://spacedock.info/mod/614/SmartParts/download/) - SRB Monitor auto-stages SRBs when the thrust-to-weight ratio falls below a specified value.
+[SmartParts](https://spacedock.info/mod/614/SmartParts/download/) - SRB Monitor auto-stages SRBs when the thrust-to-weight ratio falls below a specified value.
 
 ## Supported Mods
 
