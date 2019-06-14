@@ -4,9 +4,9 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.9
+## v1.0.10
 
-* Changes made to help compatibility with other mods.
+* Deleted TweakScale config.
 
 ## Description
 
@@ -20,7 +20,7 @@ BetterSRBs also implements the use of thrust curves.  No longer do SRBs burn at 
 
 ## Installation Instructions
 
-1. Download BetterSRBs v1.0.9.
+1. Download BetterSRBs v1.0.10.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
 
