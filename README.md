@@ -4,9 +4,12 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.0.10
+## v1.1.0
 
-* Deleted TweakScale config.
+* Added support for SRBs added in KSP 1.8 and MH 1.8.
+* Changed required technology for added SRBs.
+* Changed cost of Mk4 nosecone.
+* Reduced Kickback gimbal range.
 
 ## Description
 
@@ -20,13 +23,13 @@ BetterSRBs also implements the use of thrust curves.  No longer do SRBs burn at 
 
 ## Installation Instructions
 
-1. Download BetterSRBs v1.0.10.
+1. Download BetterSRBs v1.1.0.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
 
 ## New Parts
 
-BetterSRBs adds parts to fill the need for larger SRBs in the stock game.  The parts added are just rescaled duplicates of existing parts, though with new textures to give them a distinctive appearance.  There are now 1.875-meter versions of the Thumper and Kickback solid fuel boosters.  Also added is a 1.875m nose cone and a 1.875 x 1.25m adapter.
+BetterSRBs adds parts to fill the need for a more diverse range of SRBs in the stock game.  The parts added are just rescaled duplicates of existing parts, though with new textures to give them a distinctive appearance.  There are now 1.875-meter versions of the Thumper and Kickback solid fuel boosters.  Also added is a 1.875m nose cone and a 1.875 x 1.25m adapter.
 
 ## Recommended Mods
 
