@@ -6,8 +6,8 @@ CC BY-NC-ND
 ## Changelog
 ## v1.1.0
 
-* Added support for SRBs added in KSP 1.8 and MH 1.8.
-* Changed required technology for added SRBs.
+* Provide support for SRBs added in KSP 1.8 and MH 1.8.
+* Changed required technology for mod-added SRBs.
 * Changed cost of Mk4 nosecone.
 * Reduced Kickback gimbal range.
 
