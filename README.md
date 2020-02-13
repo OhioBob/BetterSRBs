@@ -4,12 +4,9 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.1.0
+## v1.1.1
 
-* Provide support for SRBs added in KSP 1.8 and MH 1.8.
-* Changed required technology for mod-added SRBs.
-* Changed cost of Mk4 nosecone.
-* Reduced Kickback gimbal range.
+* Disable custom texture for BACC Mk2 "Ram" SRB.
 
 ## Description
 
@@ -23,7 +20,7 @@ BetterSRBs also implements the use of thrust curves.  No longer do SRBs burn at 
 
 ## Installation Instructions
 
-1. Download BetterSRBs v1.1.0.
+1. Download BetterSRBs v1.1.1.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
 
