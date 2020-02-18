@@ -30,7 +30,7 @@ BetterSRBs adds parts to fill the need for a more diverse range of SRBs in the s
 
 ## Recommended Mods
 
-[B9 Part Switch](https://github.com/blowfishpro/B9PartSwitch/releases) - While not expressly required, B9 Parts Switch allows part variants not otherwise available. 
+[B9 Part Switch](https://github.com/blowfishpro/B9PartSwitch/releases) - While not expressly required, B9 Part Switch allows part variants not otherwise available.
 [SmartParts](https://spacedock.info/mod/614/SmartParts/download/) - SRB Monitor auto-stages SRBs when the thrust-to-weight ratio falls below a specified value.
 
 ## Supported Mods
