@@ -7,7 +7,7 @@ CC BY-NC-ND
 ## v1.2.0
 
 * Added selectable grain geometry using B9 Part Switch.
-* Tweaked the default thrust curve.
+* Tweaked default thrust curve.
 * Revived custom texture for BACC Mk2 "Ram" SRB.
 
 ## Description
