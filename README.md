@@ -4,9 +4,11 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.1.1
+## v1.2.0
 
-* Disable custom texture for BACC Mk2 "Ram" SRB.
+* Added selectable grain geometry using B9 Part Switch.
+* Tweaked the default thrust curve.
+* Revived custom texture for BACC Mk2 "Ram" SRB.
 
 ## Description
 
@@ -16,20 +18,19 @@ SRBs continue to have mass ratios comparable to the stock game, but specific imp
 
 These changes result in improved SRB performance, both in terms of efficiency and total impulse.  This improved performance must come at a price, so SRBs are now significantly more expensive.  On a cost vs. performance basis, the price of SRBs remains comparable to the stock game.
 
-BetterSRBs also implements the use of thrust curves.  No longer do SRBs burn at a constant thrust.  Thrust now rises and falls during a burn in a realistic way.
-
-## Installation Instructions
-
-1. Download BetterSRBs v1.1.1.
-
-2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
+Also implemented is the use of thrust curves to vary thrust during a burn in a realistic way.  And with the addition of [B9 Part Switch](https://github.com/blowfishpro/B9PartSwitch), the player can select from different fuel grain geometries to obtain the thrust curve best suited to one's needs.
 
 ## New Parts
 
 BetterSRBs adds parts to fill the need for a more diverse range of SRBs in the stock game.  The parts added are just rescaled duplicates of existing parts, though with new textures to give them a distinctive appearance.  There are now 1.875-meter versions of the Thumper and Kickback solid fuel boosters.  Also added is a 1.875m nose cone and a 1.875 x 1.25m adapter.
 
+## Requirements
+
+[ModuleManager](https://github.com/sarbian/ModuleManager/releases)
+
 ## Recommended Mods
 
+[B9 Part Switch](https://github.com/blowfishpro/B9PartSwitch/releases) - While not explicitly required, B9 Parts Switch allows part variants not otherwise available.
 [SmartParts](https://spacedock.info/mod/614/SmartParts/download/) - SRB Monitor auto-stages SRBs when the thrust-to-weight ratio falls below a specified value.
 
 ## Supported Mods
@@ -43,3 +44,9 @@ In addition to modifying the stock parts, configs are also included to modify th
   * ReStockPlus
 
 Also included is RealPlume support for the added SRBs.
+
+## Installation Instructions
+
+1. Download BetterSRBs v1.2.0.
+
+2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
