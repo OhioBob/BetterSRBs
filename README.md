@@ -4,11 +4,9 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.2.0
+## v1.2.1
 
-* Added selectable grain geometry using B9 Part Switch.
-* Tweaked default thrust curve.
-* Revived custom texture for BACC Mk2 "Ram" SRB.
+* Added support for ReStockPlus' TCK-2 'Castor' SRB.
 
 ## Description
 
@@ -48,6 +46,6 @@ Also included is RealPlume support for the added SRBs.
 
 ## Installation Instructions
 
-1. Download BetterSRBs v1.2.0.
+1. Download BetterSRBs v1.2.1.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
