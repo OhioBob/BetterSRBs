@@ -4,9 +4,9 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.2.1
+## v1.2.2
 
-* Added support for ReStockPlus' TCK-2 'Castor' SRB.
+* Deleted SRB upgrades.
 
 ## Description
 
@@ -46,6 +46,6 @@ Also included is RealPlume support for the added SRBs.
 
 ## Installation Instructions
 
-1. Download BetterSRBs v1.2.1.
+1. Download BetterSRBs v1.2.2.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
