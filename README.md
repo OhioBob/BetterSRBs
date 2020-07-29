@@ -4,9 +4,9 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.2.2
+## v1.2.3
 
-* Deleted SRB upgrades.
+* Updated for KSP 1.10.1.
 
 ## Description
 
@@ -46,6 +46,6 @@ Also included is RealPlume support for the added SRBs.
 
 ## Installation Instructions
 
-1. Download BetterSRBs v1.2.2.
+1. Download BetterSRBs v1.2.3.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
