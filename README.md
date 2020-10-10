@@ -4,9 +4,9 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.2.3
+## v1.2.4
 
-* Updated for KSP 1.10.1.
+* Added support for Mk3 Stockalike Expansion.
 
 ## Description
 
@@ -41,11 +41,12 @@ In addition to modifying the stock parts, configs are also included to modify th
   * NovaPunch Rebalanced
   * RLA Reborn
   * ReStockPlus
+  * Mk3 Stockalike Expansion
 
 Also included is RealPlume support for the added SRBs.
 
 ## Installation Instructions
 
-1. Download BetterSRBs v1.2.3.
+1. Download BetterSRBs v1.2.4.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
