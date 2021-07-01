@@ -4,9 +4,9 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v1.2.5
+## v1.2.6
 
-* Revised for KSP v1.12.1.
+* Deleted texture variants for S2 SRB-KD50 "Lance".
 
 ## Description
 
@@ -47,6 +47,6 @@ Also included is RealPlume support for the added SRBs.
 
 ## Installation Instructions
 
-1. Download BetterSRBs v1.2.5.
+1. Download BetterSRBs v1.2.6.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder BetterSRBs and all its contents.
